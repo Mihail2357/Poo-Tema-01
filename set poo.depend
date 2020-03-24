@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1585081598 source:c:\users\mama\desktop\c++ mihail\set poo\main.cpp
+	<iostream>
+	"Nod.h"
+	"set.h"
+
+1585054920 source:c:\users\mama\desktop\c++ mihail\set poo\src\nod.cpp
+	"Nod.h"
+
+1585055297 c:\users\mama\desktop\c++ mihail\set poo\include\nod.h
+	<iostream>
+	<ostream>
+	<stdexcept>
+
+1585081791 source:c:\users\mama\desktop\c++ mihail\set poo\src\set.cpp
+	"set.h"
+	<iostream>
+
+1585055374 c:\users\mama\desktop\c++ mihail\set poo\include\set.h
+	"Nod.h"
+
